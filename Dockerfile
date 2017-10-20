@@ -9,7 +9,7 @@ ENV POSTGIS_VERSION 2.4.0
 ENV POSTGIS http://download.osgeo.org/postgis/source/postgis-$POSTGIS_VERSION.tar.gz
 
 #from http://trac.osgeo.org/geos/
-ENV GEOS http://download.osgeo.org/geos/geos-3.5.1.tar.bz2
+ENV GEOS http://download.osgeo.org/geos/geos-3.6.2.tar.bz2
 #from http://trac.osgeo.org/gdal/wiki/DownloadSource
 ENV GDAL http://download.osgeo.org/gdal/2.1.4/gdal-2.1.4.tar.gz
 #from http://proj4.org/download.html
